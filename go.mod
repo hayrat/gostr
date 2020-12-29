@@ -1,4 +1,4 @@
-module github.com/arifemre/gostr
+module github.com/hayrat/gostr
 
 go 1.14
 
